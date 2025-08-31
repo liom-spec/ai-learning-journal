@@ -68,6 +68,3 @@ conda activate your-env-name
 - `environment.yml`の設定ミス: 必要な項目が記載されているか確認してください。
 - Gitが使えない場合: ZIPダウンロード→展開→VS Codeで開く手順を利用してください。
 
-## その他
-
-詳細は [公式ドキュメント](https://example.com) を参照してください。
